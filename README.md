@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Görkem @tamzirtapoz .
+- 👋 Hi, I’m Görkem @gbs .
 - 👀 I’m interested in JavaScript - React.js - Vue.js - Node.js - Redux - HTML - CSS - Bootstrap - Tailwind
 - 🌱 I’m currently learning ReactNative and Phyton .
 - 💞️ I’m working hard in my new job .
