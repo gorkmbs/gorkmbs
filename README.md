@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Görkem @gorkmbs .
-- 👀 I’m interested in JavaScript - React.js - Vue.js - Node.js - Redux - HTML - CSS - Bootstrap - Tailwind
+- 👀 I’m interested in JavaScript - React.js - Vue.js - Node.js - Redux - HTML - CSS - Bootstrap - Tailwind - ReactNative
 - 🌱 I’m currently learning ReactNative and Phyton .
 - 💞️ I love working with Ondokuzon Yazılım .
 - 📫 Reach me on my [LinkedIn Page](https://www.linkedin.com/in/g%C3%B6rkem-bu%C4%9Fra-sara%C3%A7-3458b0149/ "Görkem Buğra Saraç")
